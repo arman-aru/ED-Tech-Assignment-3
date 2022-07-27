@@ -1,7 +1,13 @@
+/* ---------------------
+Primary Color : #0056d2 
+-----------------------*/
+
 .coursera-logo{
    width: 130px;
 }
-
+.coursera-logo-footer{
+   width: 180px;
+}
 
 /* CSS Document */
 .heading-title h2 {
