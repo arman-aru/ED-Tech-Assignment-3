@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
    display: inline-block;
 }
 .testimonial-wrapp .quoted {
-	background: #643094;
+	background: #0056d2;
 	color: #fff;
 	font-size: 20px;
 	line-height: 50px;
@@ -94,10 +94,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 #testimonial-slider .owl-item:nth-child(2n) .testimonial-wrapp .quoted,
 #testimonial-slider .owl-item:nth-child(2n) .testimonial-wrapp:hover .testimonial-text{
-   background: #00bcd4;
+   background: #0dcaf0;
 }
 .testimonial-wrapp:hover .testimonial-text{
-   background: #643094;
+   background: #0056d2;
    color: #fff;
 }
 
